@@ -1,4 +1,5 @@
-public class App {
+package edu.kami.segundasemana;
+public class MinhaClasse {
     public static void main(String[] args) throws Exception {
         String primeiroNome = "Kamilly";
         String segundoNome = "Quadros";
